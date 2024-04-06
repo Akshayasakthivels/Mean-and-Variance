@@ -49,7 +49,9 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
-Developed By : Akshaya S
+Developed By : Akshaya S   
+
+
 Register Number : 212223220006
 ```
 
